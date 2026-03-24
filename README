@@ -25,7 +25,11 @@ For more information, please visit:
 
 ## Citation
 Please cite the following:  
-Dundon, N. M., Rizor, E., Stasiak, J., Wang, J., Li, T., Sabugo, K., Villaneuva, C., Barandon, P., Babenko, V.,  Beverly-Aylwin, R., Stump, A., Santander, T., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2024). Incentive valence differentially engages open- and closed-loop basal ganglia circuits during movement initiation. bioRxiv, 2025-12.
+Dundon, N. M., Rizor, E.J., Stasiak, J., Wang, J., Li, T., Sabugo, K., Villaneuva, C., Barandon, P., Babenko, V.,  Beverly-Aylwin, R., Stump, A., Santander, T., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2025). Incentive valence differentially engages open- and closed-loop basal ganglia circuits during movement initiation. bioRxiv, 2025-12.
+
+## Repository
+[See here for the analysis and processing code used to create the above publications.](https://github.com/ejrise/incentive-valence)
+
 
 ## other fMRI Tasks part of SKIP
 
