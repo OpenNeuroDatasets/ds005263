@@ -11,7 +11,7 @@ SKIP so far contains three task-based fMRI datasets and one resting-state fMRI d
   - Task design compares positive and negative incentive valence.
 
 **Current Version:** 1.0.1  
-**Note:** This version contains data from healthy controls only. Future updates will include data from PD patients and a broader range of assays in both healthy controls and PD subjects, such as cardiac-autonomic and pupillometry data.
+**Note:** This version contains raw data from healthy controls only. Future updates will include data from PD patients and a broader range of assays in both healthy controls and PD subjects, such as cardiac-autonomic and pupillometry data.
 
 Our goal for SKIP is to become the leading global resource as the world advances in its capacity for powerful and innovative analyses, allowing researchers free access to comprehensive physiological and behavioral assays of movement, and how incentives influence them, in the context of PD.
 
