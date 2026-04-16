@@ -1,4 +1,4 @@
-participant_id	Age	Handed	Gender	Group
+participant_id	age	handedness	sex	group
 sub-301	25	R	M	control
 sub-303	20	R	M	control
 sub-304	23	R	F	control
