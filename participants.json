@@ -5,9 +5,6 @@
     "age": {
         "Description": "Age of the participant",
         "Units": "years",
-        "Levels": {
-            "n/a": "Not Available"
-        }
     },
     "handedness": {
         "Description": "Handedness of the participant",

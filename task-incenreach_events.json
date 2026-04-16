@@ -16,7 +16,8 @@
         "Description": "Describes the outcome of the trial.",
         "Levels": {
             "too_slow": "Target not reached before deadline on this trial.",
-            "success": "Target reached before deadline on this trial."
+            "success": "Target reached before deadline on this trial.",
+            "false_start": "Movement initiated prior to the go-cue on this trial."
         }
     },
     "initiation_time": {
