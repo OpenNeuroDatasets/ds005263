@@ -11,7 +11,7 @@
             "go_standard": "The go cue. This is a standard trial."
         }
     },
-    "outcome": {
+    "trial_outcome": {
         "LongName": "Outcome of the trial",
         "Description": "Describes the outcome of the trial.",
         "Levels": {

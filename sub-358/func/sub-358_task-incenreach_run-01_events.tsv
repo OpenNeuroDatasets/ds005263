@@ -1,4 +1,4 @@
-onset	duration	trial_type	outcome	initiation_time	completion_time
+onset	duration	trial_type	trial_outcome	initiation_time	completion_time
 21.439032166999823	0.2	instruction_jackpot	false_start	n/a	n/a
 26.21500041699983	0.2	instruction_standard	false_start	n/a	n/a
 32.075741333000224	0.2	instruction_robber	too_slow	0.6381336201200156	3.17187895799998

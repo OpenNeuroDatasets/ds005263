@@ -1,4 +1,4 @@
-onset	duration	trial_type	outcome	initiation_time	completion_time
+onset	duration	trial_type	trial_outcome	initiation_time	completion_time
 8.053843957999561	0.2	instruction_jackpot	too_slow	0.437310283351394	2.570814290999806
 10.258990792000075	n/a	go_jackpot	too_slow	0.437310283351394	2.570814290999806
 17.690150542000083	0.2	instruction_standard	too_slow	0.4170700600601549	2.6873760409998795
