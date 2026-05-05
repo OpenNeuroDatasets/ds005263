@@ -26,7 +26,7 @@ For more information, please visit:
 
 ## Citation
 Please cite the following:  
-Dundon, N. M., Rizor, E.J., Stasiak, J., Wang, J., Li, T., Sabugo, K., Villaneuva, C., Barandon, P., Babenko, V.,  Beverly-Aylwin, R., Stump, A., Santander, T., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2025). Incentive valence differentially engages open- and closed-loop basal ganglia circuits during movement initiation. bioRxiv, 2025-12.
+Dundon, N. M., Rizor, E.J., Stasiak, J., Wang, J., Li, T., Sabugo, K., Villaneuva, C., Barandon, P., Babenko, V.,  Beverly-Aylwin, R., Stump, A., Santander, T., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2025). Incentive valence differentially engages open- and closed-loop basal ganglia circuits during movement initiation. PNAS.
 
 ## Repository
 [See here for our code repository for the above publications.](https://github.com/ejrise/incentive-valence)
@@ -47,7 +47,7 @@ Dundon, N. M., Rizor, E.J., Stasiak, J., Wang, J., Li, T., Sabugo, K., Villaneuv
   - Task design creates controllable-mild, uncontrollable-mild, controllable-unpleasant, and uncontrollable-unpleasant conditions.
 
 ### Ultra-High Field Functional Connectivity / Network Mapping (highresFC)
-- **Description:** 21 participants undergoing ultra-high field (7T) multi-echo scans at rest.
+- **Description:** 28 participants undergoing ultra-high field (7T) multi-echo scans at rest.
   - Multi-echo imaging was used to reduce non-BOLD signals.
   - Ultra-high field imaging provides greater image resolution and reliability of functional connectivity network analyses.
   - Ideal for mapping network properties of small, deep subcortical nuclei, such as those in the basal ganglia.
