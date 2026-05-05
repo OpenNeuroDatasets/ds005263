@@ -1,0 +1,32 @@
+{
+    "participant_id": {
+        "Description": "Unique participant identifier"
+    },
+    "age": {
+        "Description": "Age of the participant",
+        "Units": "years"
+    },
+    "handedness": {
+        "Description": "Handedness of the participant",
+        "Levels": {
+            "R": "Right",
+            "L": "Left"
+        }
+    },
+    "sex": {
+        "Description": "Gender of the participant",
+        "Levels": {
+            "M": "Male",
+            "F": "Female",
+            "NB": "Nonbinary"
+        }
+    },
+    "group": {
+        "Description": "Experimental group of the participant",
+        "Levels": {
+            "control": "Healthy control group",
+            "pd": "Parkinson's Disease group"
+        }
+    }
+}
+
